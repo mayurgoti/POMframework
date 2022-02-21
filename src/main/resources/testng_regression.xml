@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<suite parallel="false" name="AutomationTestSuite">
+  <test name="Regression Test">
+    <classes>
+    
+      <class name="com.qa.tests.LoginPageTest"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
